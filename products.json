@@ -1,0 +1,110 @@
+[
+  {
+    "id": "floral-jhumka",
+    "title": "Floral Jhumka",
+    "material": "Resin and real flower",
+    "price": "₹300.00",
+    "badge": "customizable",
+    "tags": ["earring", "resin", "jhumka"],
+    "image": "/images/floral-jhumka.jpeg",
+    "detailImage": "/images/floral-jhumka.jpeg",
+    "description": "Add a touch of elegance to your look with these beautifully handcrafted resin jhumkas. Made with love and attention to detail, each pair is lightweight, unique, and perfect for both everyday wear and special occasions. The delicate floral design and vibrant colors make them a charming accessory that complements ethnic as well as fusion outfits.",
+    "details": {
+      "materials": ["resin", "real flower"],
+      "dimensions": "N/A",
+      "care": "N/A",
+      "processDescription": "Crafted from locally sourced stoneware clay. The exterior features a matte, slightly toothy finish while the interior is glazed with a clear, water-tight coating.",
+      "artistNote": "This vase was born from a desire to capture the fleeting, translucent quality of a fern leaf catching the morning light. The painting process is meditative, requiring a steady hand and a quiet mind."
+    }
+  },
+  {
+    "id": "daisy-in-the-dark",
+    "title": "Daisy in the Dark",
+    "material": "Resin and real flower",
+    "price": "₹400.00",
+    "badge": "customizable",
+    "tags": ["earring", "resin", "jhumka"],
+    "image": "/images/daisy-in-the-dark.jpeg",
+    "detailImage": "/images/daisy-in-the-dark.jpeg",
+    "description": "Delicate white daisies blooming against a sleek black backdrop — these handcrafted resin jhumkas are the perfect blend of elegance and charm. Lightweight, unique, and lovingly handmade, they're designed to add a touch of floral magic to every outfit. Whether you're dressing up for a festive occasion or adding a statement piece to your everyday look, these jhumkas are sure to turn heads.",
+    "details": {
+      "materials": ["resin", "real flower"],
+      "dimensions": "N/A",
+      "care": "N/A",
+      "processDescription": "Built up in layers over several weeks, each medium is allowed to fully cure before the next is applied. The raw linen adds warmth and texture that a primed canvas cannot replicate.",
+      "artistNote": "Midnight blooms are the ones nobody sees — they open in secret and close before dawn. This piece is my meditation on unseen beauty."
+    }
+  },
+  {
+    "id": "monstera-petal",
+    "title": "Monstera Petal",
+    "material": "Resin and real flower",
+    "price": "₹500.00",
+    "badge": "customizable",
+    "tags": ["earring", "resin"],
+    "image": "/images/monstera-petal.jpeg",
+    "detailImage": "/images/monstera-petal.jpeg",
+    "description": "Elevate your collection with these exquisitely handcrafted monstera-leaf earrings, where organic beauty meets refined artistry. Each piece is a miniature wearable canvas, meticulously cast to capture the iconic, sprawling silhouette of the tropical monstera plant.",
+    "details": {
+      "materials": ["resin", "real flower"],
+      "dimensions": "N/A",
+      "care": "N/A",
+      "processDescription": "Built up in layers over several weeks, each medium is allowed to fully cure before the next is applied. The raw linen adds warmth and texture that a primed canvas cannot replicate.",
+      "artistNote": "Midnight blooms are the ones nobody sees — they open in secret and close before dawn. This piece is my meditation on unseen beauty."
+    }
+  },
+  {
+    "id": "memory-bloom",
+    "title": "Memory Bloom",
+    "material": "Resin and real flower",
+    "price": "₹400.00",
+    "badge": "customizable",
+    "tags": ["earring", "resin", "jhumka"],
+    "image": "/images/memory-bloom.jpeg",
+    "detailImage": "/images/memory-bloom.jpeg",
+    "description": "Made from real red rose petals lovingly provided by the client, these handcrafted resin jhumkas are more than just jewelry—they're a beautiful memory preserved forever. Each petal carries a special story, making every pair truly one of a kind.",
+    "details": {
+      "materials": ["resin", "real flower"],
+      "dimensions": "N/A",
+      "care": "N/A",
+      "processDescription": "Built up in layers over several weeks, each medium is allowed to fully cure before the next is applied. The raw linen adds warmth and texture that a primed canvas cannot replicate.",
+      "artistNote": "Midnight blooms are the ones nobody sees — they open in secret and close before dawn. This piece is my meditation on unseen beauty."
+    }
+  },
+  {
+    "id": "raw-earth-pitcher",
+    "title": "Raw Earth Pitcher",
+    "material": "Unglazed Stoneware",
+    "price": "$165.00",
+    "badge": null,
+    "tags": ["vases", "ceramics"],
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAJ4m3SZfmgu7GbNacQHq5O6XLJpW0tWpHxRex5STDoz9uG4OMr34cXVrAdt1sN0XqpCambzKiUL_48spbgpPVU2X_tAy8_D3a3jMlDMWS9P1HN7m5Y1rQDF13R0KjTlANc4iCZkAe0kgIe4i7HveniH3hAYq1w0nuC45EiGoAx3ke2-iXF8b9V_Tuq8FXTD6PYE-CfnfHBxvXQkvG6qQeLyxin1w4KvtCYLziygyLzyafEHVAbQpD28DjtBmZRZlD-MoyeAdloTJY",
+    "detailImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuAJ4m3SZfmgu7GbNacQHq5O6XLJpW0tWpHxRex5STDoz9uG4OMr34cXVrAdt1sN0XqpCambzKiUL_48spbgpPVU2X_tAy8_D3a3jMlDMWS9P1HN7m5Y1rQDF13R0KjTlANc4iCZkAe0kgIe4i7HveniH3hAYq1w0nuC45EiGoAx3ke2-iXF8b9V_Tuq8FXTD6PYE-CfnfHBxvXQkvG6qQeLyxin1w4KvtCYLziygyLzyafEHVAbQpD28DjtBmZRZlD-MoyeAdloTJY",
+    "description": "A sculptural pitcher left intentionally unglazed to celebrate the raw beauty of stoneware. The exterior retains the maker's marks and the subtle texture of the clay body.",
+    "details": {
+      "materials": ["Wild-harvested stoneware clay"],
+      "dimensions": "11\" H x 6\" W",
+      "care": "Interior glazed for water-tightness; hand wash exterior",
+      "processDescription": "Coil-built and paddle-formed, this pitcher is fired to cone 10 in a wood-fired kiln. The ash from the firing leaves natural deposits on the raw exterior.",
+      "artistNote": "I wanted to make a pitcher that felt ancient — like something unearthed rather than made. Leaving it raw was the only honest choice."
+    }
+  },
+  {
+    "id": "ochre-fragment",
+    "title": "Ochre Fragment",
+    "material": "Ceramic & Iron Oxide",
+    "price": "$95.00",
+    "badge": null,
+    "tags": ["botanical", "ceramics", "paintings"],
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDT_nzVUVVw3AFURVtCC9tl34H77wXMmmjGW7MEKRMLmU3EpvsLqszO1ODgUL8U0odUlPR0IOGEFQZ3TITtOF7QO4iGHedr9YQ92gmHJ_YoBTuOEwGxt4245qaNRD4i3jdWoSpTWtEindZo4L7O6zOvYYtWWBm31g_NbuP94NjNb1mJ9DmUJYnwj--vTbV_u-puQWEdRODQAuEcJQEmQ4ivn5wzLWixmFY9o3kYevFIRfUutVC3LOCHnkWcMdRq2tkyAF0QTrmMNsA",
+    "detailImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuDT_nzVUVVw3AFURVtCC9tl34H77wXMmmjGW7MEKRMLmU3EpvsLqszO1ODgUL8U0odUlPR0IOGEFQZ3TITtOF7QO4iGHedr9YQ92gmHJ_YoBTuOEwGxt4245qaNRD4i3jdWoSpTWtEindZo4L7O6zOvYYtWWBm31g_NbuP94NjNb1mJ9DmUJYnwj--vTbV_u-puQWEdRODQAuEcJQEmQ4ivn5wzLWixmFY9o3kYevFIRfUutVC3LOCHnkWcMdRq2tkyAF0QTrmMNsA",
+    "description": "A deconstructed wall sculpture evoking geological strata. Iron oxide washes in deep ochre and burnt sienna create an earthy, grounding presence on any wall.",
+    "details": {
+      "materials": ["Slab-built ceramic", "Iron oxide, manganese wash"],
+      "dimensions": "12\" x 8\" (irregular)",
+      "care": "Dust with soft brush; wall-mount hardware included",
+      "processDescription": "Slabs of clay are torn and layered while wet, then allowed to dry slowly to preserve the organic edges. Multiple iron oxide washes are applied between firings to build color depth.",
+      "artistNote": "I think of these as fossils from a world that never existed — fragments of an imagined geology."
+    }
+  }
+]
