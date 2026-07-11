@@ -101,5 +101,21 @@
       "dimensions": "customizable",
       "artistNote": "Hang the Aurelia Rose in an area with plenty of natural light or beneath a warm accent lamp. The metallic gold veining and raised numerals are designed to catch shifting light throughout the day, creating a dynamic visual experience. It acts as the perfect anchor piece for a living room gallery wall, a chic home office, or a luxury bedroom retreat."
     }
+  },
+  {
+    "id": "kesari-aura-resin-thali",
+    "title": "Kesari Aura Resin Thali",
+    "material": "Resin",
+    "price": "₹600",
+    "badge": "customizable",
+    "tags": ["thali", "resin"],
+    "image": "/images/kesari-aura-resin-thali.jpeg",
+    "detailImage": "/images/kesari-aura-resin-thali.jpeg",
+    "description": "A stunning resin thali that combines traditional design with modern craftsmanship.",
+    "details": {
+      "materials": ["resin", "MDF"],
+      "dimensions": "customizable",
+      "artistNote": "The Kesari Aura Resin Thali is perfect for festive occasions and traditional ceremonies. Its vibrant colors and intricate design make it a centerpiece for any celebration."
+    }
   }
 ]
