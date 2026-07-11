@@ -117,5 +117,21 @@
       "dimensions": "customizable",
       "artistNote": "The Kesari Aura Resin Thali is perfect for festive occasions and traditional ceremonies. Its vibrant colors and intricate design make it a centerpiece for any celebration."
     }
+  },
+  {
+    "id": "coastal-bloom-phone-cover",
+    "title": "Coastal Bloom Phone Cover",
+    "material": "Resin, Real Flower, and Phone Cover",
+    "price": "₹600",
+    "badge": "customizable",
+    "tags": ["phone-cover", "resin", "real-flower"],
+    "image": "/images/coastal-bloom-phone-cover.jpeg",
+    "detailImage": "/images/coastal-bloom-phone-cover.jpeg",
+    "description": "A beautiful phone cover that encapsulates the essence of coastal blooms in resin.",
+    "details": {
+      "materials": ["resin", "real flower", "phone cover"],
+      "dimensions": "customizable",
+      "artistNote": "The Coastal Bloom Phone Cover is a perfect blend of nature and craftsmanship, protecting your phone while showcasing delicate floral beauty."
+    }
   }
 ]
