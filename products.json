@@ -111,7 +111,7 @@
     "tags": ["thali", "resin"],
     "image": "/images/kesari-aura-resin-thali.jpeg",
     "detailImage": "/images/kesari-aura-resin-thali.jpeg",
-    "description": "A stunning resin thali that combines traditional design with modern craftsmanship.",
+    "description": "A stunning 10 inch resin thali that combines traditional design with modern craftsmanship.",
     "details": {
       "materials": ["resin", "MDF"],
       "dimensions": "customizable",
@@ -124,7 +124,7 @@
     "material": "Resin, Real Flower, and Phone Cover",
     "price": "₹600",
     "badge": "customizable",
-    "tags": ["phone-cover", "resin", "real-flower"],
+    "tags": ["phone-cover", "resin"],
     "image": "/images/coastal-bloom-phone-cover.jpeg",
     "detailImage": "/images/coastal-bloom-phone-cover.jpeg",
     "description": "A beautiful phone cover that encapsulates the essence of coastal blooms in resin.",
@@ -132,6 +132,22 @@
       "materials": ["resin", "real flower", "phone cover"],
       "dimensions": "customizable",
       "artistNote": "The Coastal Bloom Phone Cover is a perfect blend of nature and craftsmanship, protecting your phone while showcasing delicate floral beauty."
+    }
+  },
+  {
+    "id": "personalized-resin-coin-platter",
+    "title": "Personalized Coin Platter",
+    "material": "Resin",
+    "price": "custom",
+    "badge": "customizable",
+    "tags": ["resin", "coin-platter"],
+    "image": "/images/personalized-resin-coin-platter.jpeg",
+    "detailImage": "/images/personalized-resin-coin-platter.jpeg",
+    "description": "A personalized resin coin platter that combines elegance with functionality.",
+    "details": {
+      "materials": ["resin"],
+      "dimensions": "customizable",
+      "artistNote": "The Personalized Resin Coin Platter is perfect for serving coins or small items with a touch of elegance. Its customizable design makes it a unique addition to any home."
     }
   }
 ]
